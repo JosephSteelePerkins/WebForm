@@ -162,3 +162,10 @@ C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Worksp
 C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Repo\WebForm\Joe\Joe\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Repo\WebForm\Joe\Joe\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+C:\Repo\WebForm\Joe\Joe\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+C:\Repo\WebForm\Joe\Joe\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+C:\Repo\WebForm\Joe\Joe\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+C:\Repo\WebForm\Joe\Joe\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
