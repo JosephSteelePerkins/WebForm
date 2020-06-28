@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Books.aspx.cs" Inherits="DatabaseWebApp.WebPages.Books" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Books.aspx.cs"  %>
 
 <!DOCTYPE html>
 
@@ -10,6 +10,11 @@
     <body>
 
         <form id ="form1" runat="server"
-            <div></div>
+            <div>
+                <h1>Books</h1>
+
+                <asp:GridView ID="gridBookList" runat="server"></asp:GridView>
+
+            </div>
     </body>
 </html>
