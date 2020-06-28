@@ -1,9 +1,9 @@
-﻿using System.Data.SqlClient
+﻿using System.Data.SqlClient;
 using System.Data.SqlTypes;
 using System.Data;
 using System;
 using System.Collections.Generic;
-
+using Microsoft.Data.SqlClient;
 
 public class Book
 {
@@ -20,7 +20,11 @@ public class Book
     {
         List<Book> bookList = new List<Book>();
         SqlConnection con = new SqlConnection(connectionString);
-        
+
+        string selectSQL = "select BookId, Title, Isbn, PublisherName, AuthorName, CategoryName  from GetBookData";
+
+        con.Open();
+
         return bookList;
     }
 
